@@ -1,0 +1,13 @@
+================================
+day-01
+===============================
+
+Commands----
+
+1) for maintaining our repository using git [ git init ]
+2) for checking the status [ git status ]
+3) for creating a file [ touch ]
+4) for commit [ git commit -m "file name" ]
+
+:wq
+

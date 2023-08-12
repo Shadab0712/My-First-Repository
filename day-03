@@ -1,0 +1,7 @@
+============================
+Day 03
+===========================
+
+1) created a new branch named as feature branch
+2) we will always do the edit or modification of code in the feature branch which is extracted from the develop branch
+30 No changes should be made in the main or develop branch
